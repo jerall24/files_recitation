@@ -1,0 +1,22 @@
+this is an asm file
+
+; this is a comment
+
+
+ADD R1 R1 R1
+SUB R2 R3 R4
+
+ADD R1 R7 R1
+0001 001 111 000 001
+0001 0011 1100 0001
+
+x13 C1
+
+C1 13
+
+
+ADD R1 R1 R1
+ADD, R1 R1 R1
+ADD R1, R2, R2
+ADD R,1
+ADD R1 R1 R1

@@ -1,0 +1,3 @@
+Hello my darlings.
+We are learning about reading and writing to files.
+This is the end of the raw file.
